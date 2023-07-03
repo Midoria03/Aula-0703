@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(56, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    color: beige;
+    font-family: fantasy;
+}
+
+img {
+    border: 10px;
+}
